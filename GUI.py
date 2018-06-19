@@ -1,5 +1,4 @@
 """Author : Mohammad Shakoory"""
-# Question 6
 
 import json
 from Tkinter import *
